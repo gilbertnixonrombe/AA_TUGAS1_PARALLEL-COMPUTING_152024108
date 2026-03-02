@@ -1,4 +1,3 @@
-# Program Parallel - Parallel Computing
 from multiprocessing import Process, Queue
 
 def partial_sum(start, end, q, pid):
