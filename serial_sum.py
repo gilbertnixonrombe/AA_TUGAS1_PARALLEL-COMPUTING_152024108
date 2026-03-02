@@ -1,4 +1,3 @@
-#Program Sequential - Serial Computing
 n = 5
 total = 0
 
